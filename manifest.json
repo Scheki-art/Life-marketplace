@@ -1,0 +1,16 @@
+{
+  "name": "LIFE — La vie du commerce numérique",
+  "short_name": "LIFE",
+  "description": "Marketplace mobile : acheter, vendre et livrer en Côte d'Ivoire.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF5EF",
+  "theme_color": "#F2660B",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
